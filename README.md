@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 I'm Vansh  <br><br>I'm a MERN Stack Developer with hands-on experience in building real-world web applications.  <br>I work with React, Node.js, Express, and MongoDB to create scalable, secure, and user-friendly apps.<br><br>🔹 Experienced in authentication (JWT)  <br>🔹 Admin, Provider & Customer dashboards  <br>🔹 REST APIs & backend integrations  <br>🔹 PWA & production deployments  <br><br>Currently focused on improving performance, optimizing builds, and learning best practices.<br>
+Hi 👋 I'm Vansh  <br><br>I'm a passionate MERN Stack Developer looking for internship opportunities.  <br>I have worked on live projects involving frontend, backend, authentication, and deployment.<br><br>💻 Tech Stack: React, Vite, Node.js, Express, MongoDB  <br>🚀 Experience: Real-world projects, dashboards, APIs  <br>🌱 Learning: Performance optimization & scalable architecture<br>
 
 
 ## 🌐 Socials:
@@ -13,7 +13,7 @@ Hi 👋 I'm Vansh  <br><br>I'm a MERN Stack Developer with hands-on experience i
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh1945&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Vansh1945&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Vansh1945&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Vansh1945&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
